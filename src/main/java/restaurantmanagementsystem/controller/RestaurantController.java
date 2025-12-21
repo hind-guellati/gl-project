@@ -49,7 +49,7 @@ public class RestaurantController {
 
     private void showMainMenu() {
         System.out.println("=== RESTAURANT MANAGEMENT SYSTEM ===");
-        System.out.println("1. Show Menu");
+        System.out.println("o. Show Menu");
         System.out.println("2. Create Order");
         System.out.println("3. Payment");
         System.out.println("0. Exit");
